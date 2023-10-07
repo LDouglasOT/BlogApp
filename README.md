@@ -96,7 +96,7 @@ Example command:
 
 ## 👥 Authors <a name="authors"></a>
 
-👤**Daniel Kigozi**
+👤** Douglas Luzinda **
 
 - GitHub: [@githubhandle](https://github.com/LDouglasOT)
 - Twitter: [@twitterhandle]()
